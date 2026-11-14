@@ -73,7 +73,7 @@ Based on the analysis, businesses can consider the following actions:
 
 ## 📈 Project Dashboard
 
-<!--<img width="1349" height="755" alt="Screenshot 2026-11-14 170515" src="https://github.com/user-attachments/assets/acf682db-a394-4fb9-bdd6-8a082329e1f1" />
+<!-- />
 -->
 
 
