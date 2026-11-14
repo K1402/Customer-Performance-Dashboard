@@ -72,7 +72,22 @@ Based on the analysis, businesses can consider the following actions:
 - **DAX:** Business calculations and performance metrics.
 
 ## 📈 Project Dashboard
-![Customer Performance Dashboard](Light-Mode.png)
+
+<!-- Customer Performance Dashboard Screenshots -->
+
+<div align="center">
+
+### ☀️ Light Mode
+
+<img src="Images/Light Mode.png" alt="Customer Dashboard - Light Mode" width="100%"/>
+
+<br><br>
+
+### 🌙 Dark Mode
+
+<img src="Images/Dark Mode.png" alt="Customer Dashboard - Dark Mode" width="100%"/>
+
+</div>
 
 
 
